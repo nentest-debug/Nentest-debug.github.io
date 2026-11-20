@@ -1,2 +1,2 @@
-# Nentest.debug.github.io
+# Nentest-debug.github.io
 Nentest.github.io
